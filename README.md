@@ -12,7 +12,7 @@ A responsive product management dashboard built with React, Tailwind CSS, and Ne
 
 🛠️ Tech Stack
 
-    Frontend: React, Next.js, Tailwind CSS
+    Frontend: Typescript, Next.js, Tailwind CSS
     Images: Next.js Image component for optimized image loading
     🖥️ Getting Started
 
